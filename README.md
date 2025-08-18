@@ -1,1 +1,149 @@
 # Multimodal-for-Robotics
+
+<!-- <p align="center">
+    <img src="./images/MiG_logo.jpg" width="100%" height="100%">
+</p>
+
+## Our MLLM works
+
+🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
+**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)** | :black_nib: **[Citation](./images/bib_survey.txt)** | **[💬 WeChat (MLLM微信交流群，欢迎加入)](./images/wechat-group.png)**
+
+The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sparkles:  
+
+---
+
+🔥🔥🔥 **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
+<p align="center">
+    <img src="./images/vita-1.5.jpg" width="60%" height="60%">
+</p>
+
+<font size=7><div align='center' > [[📽 VITA-1.5 Demo Show! Here We Go! 🔥](https://youtu.be/tyi6SVFT5mM?si=fkMQCrwa5fVnmEe7)] </div></font>  
+
+<font size=7><div align='center' > [[📖 VITA-1.5 Paper](https://arxiv.org/pdf/2501.01957)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤖 Basic Demo](https://modelscope.cn/studios/modelscope/VITA1.5_demo)] [[🍎 VITA-1.0](https://vita-home.github.io/)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat-group.jpg)]</div></font>  
+
+<font size=7><div align='center' > We are excited to introduce the **VITA-1.5**, a more powerful and more real-time version. ✨ </div></font>
+
+<font size=7><div align='center' >**All codes of VITA-1.5 have been released**! :star2: </div></font>  
+
+You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VITA1.5_demo) on ModelScope directly. The Real-Time Interactive Demo needs to be configured according to the [instructions](https://github.com/VITA-MLLM/VITA?tab=readme-ov-file#-real-time-interactive-demo).
+
+
+---
+
+🔥🔥🔥 **Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuracy**  
+<p align="center">
+    <img src="./images/longvita.jpg" width="80%" height="80%">
+</p>
+
+<font size=7><div align='center' > [[📖 arXiv Paper](https://arxiv.org/pdf/2502.05177)] [[🌟 GitHub](https://github.com/VITA-MLLM/Long-VITA)]</div></font>  
+
+<font size=7><div align='center' > Process more than **4K frames** or over **1M visual tokens**. State-of-the-art on Video-MME under 20B models!  ✨ </div></font>
+
+--- -->
+
+<font size=5><center><b> Table of Contents </b> </center></font>
+- [Multimodal-for-Robotics](#multimodal-for-robotics)
+- [Papers](#papers)
+  - [Perception](#perception)
+  - [Reasoning](#reasoning)
+  - [Planning](#planning)
+  - [Control](#control)
+    - [Vision-Language-Action](#vision-language-action)
+    - [Diffusion Policy](#diffusion-policy)
+- [Benchmarks and Datasets](#benchmarks-and-datasets)
+  - [Perception](#perception-1)
+  - [Reasoning](#reasoning-1)
+  - [Planning](#planning-1)
+
+# Papers
+
+<!-- Template
+|:--------|:--------:|:--------:|:--------:|
+| [**Title**](Paperlink) <br> | Conference | [Page]( ) | [Github]( ) | -->
+
+## Perception
+
+|  Title  |   Venue  |   Website   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [**RoboMP2: A Robotic Multimodal Perception-Planning Framework with Multimodal Large Language Models**](https://arxiv.org/pdf/2404.04929) <br> | ICML 2024 | [Page](https://aopolin-lv.github.io/RoboMP2.github.io/) | [Github](https://github.com/aopolin-lv/RoboMP2) |
+| [**OpenEQA: Embodied Question Answering in the Era of Foundation Models**](https://open-eqa.github.io/assets/pdfs/paper.pdf) | CVPR 2024 | [Page](https://open-eqa.github.io/) | [Github](https://github.com/facebookresearch/open-eqa) |
+| [**EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI**](https://arxiv.org/pdf/2312.16170) <br> | CVPR 2024 | [Page](https://tai-wang.github.io/embodiedscan/) | [Github](https://github.com/InternRobotics/EmbodiedScan/tree/main) |
+| [**Multimodal Perception for Goal-oriented Navigation: A Survey**](https://arxiv.org/pdf/2504.15643) <br> | Arxiv | - | - |
+
+
+
+
+
+
+
+## Reasoning
+
+|  Title  |   Venue  |   Website   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [**PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability**](https://arxiv.org/pdf/2503.08481) <br> | CVPR 2025 | - | [Github](https://github.com/unira-zwj/PhysVLM?tab=readme-ov-file) |
+| [**ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robot Navigation**](https://arxiv.org/pdf/2409.13682) <br> | ICRA 2025 | [Page](https://nvidia-ai-iot.github.io/remembr/) | [Github](https://github.com/NVIDIA-AI-IOT/remembr) |
+| [**Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning**](https://arxiv.org/pdf/2503.15558) <br> | Technical report | [Page](https://research.nvidia.com/labs/dir/cosmos-reason1/) | [Github](https://github.com/nvidia-cosmos/cosmos-reason1) |
+| [**MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting**](https://www.roboticsproceedings.org/rss20/p062.pdf) <br> | RSS 2024 | [Page](https://moka-manipulation.github.io/) | [Github](https://github.com/moka-manipulation/moka) |
+| [**SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models**](https://arxiv.org/pdf/2406.01584) <br> | NeurIPS 2024 | [Page](https://www.anjiecheng.me/SpatialRGPT) | [Github](https://github.com/AnjieCheng/SpatialRGPT) |
+| [**Multi-modal Situated Reasoning in 3D Scenes**](https://arxiv.org/pdf/2409.02389) <br> | NeurIPS 2024 | [Page](https://msr3d.github.io/) | [Github](https://github.com/MSR3D/MSR3D) |
+| [**EQA-MX: Embodied Question Answering using Multimodal Expression**](https://openreview.net/pdf?id=7gUrYE50Rb) <br> | ICLR 2024 | - | [Github](https://github.com/mmiakashs/eqa-mx) |
+| [**EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought**](https://openreview.net/pdf?id=7gUrYE50Rb) <br> | NeurIPS 2023 | [Page](https://embodiedgpt.github.io/) | [Github](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) |
+| [**Training Strategies for Efficient Embodied Reasoning**](https://arxiv.org/pdf/2505.08243) <br> | Arxiv | [Page](https://ecot-lite.github.io/) | - |
+
+
+
+
+## Planning
+
+|  Title  |   Venue  |   Website   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [**EMBODIEDBENCH: Comprehensive Benchmarking Multi-modal Large  Language Models for Vision-Driven Embodied Agents**](https://arxiv.org/pdf/2502.09560) <br> | ICML 2025 | [Page](https://embodiedbench.github.io/) | [Github](https://github.com/EmbodiedBench/EmbodiedBench) |
+
+
+## Control
+
+### Vision-Language-Action
+
+### Diffusion Policy
+
+
+# Benchmarks and Datasets
+
+## Perception
+|  Title  |   Venue  |   Website   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [**PhysBench Benchmarking and Enhancing VLMs for Physical World Understanding**](https://arxiv.org/pdf/2501.16411) | ICLR 2025 | [Page](https://physbench.github.io/) | [Github](https://github.com/USC-GVL/PhysBench) |
+| [**OpenEQA: Embodied Question Answering in the Era of Foundation Models**](https://open-eqa.github.io/assets/pdfs/paper.pdf) | CVPR 2024 | [Page](https://open-eqa.github.io/) | [Github](https://github.com/facebookresearch/open-eqa) |
+| [**Ost-bench: Evaluating The Capabilities Of Mllms In Online Spatio-temporal Scene Understanding**](https://arxiv.org/pdf/2507.07984) | Arxiv | [Page](https://rbler1234.github.io/OSTBench.github.io/) | [Github](https://github.com/OpenRobotLab/OST-Bench) |
+| [**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**](https://arxiv.org/pdf/2505.23764) | Arxiv | [Page](https://runsenxu.com/projects/MMSI_Bench/) | [Github](https://github.com/InternRobotics/MMSI-Bench) |
+
+
+
+## Reasoning
+|  Title  |   Venue  |   Website   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [**Beyond the Destination: A Novel Benchmark for Exploration-Aware Embodied Question Answering**](https://arxiv.org/pdf/2503.11117) | ICCV 2025 | [Page](https://hcplab-sysu.github.io/EXPRESS-Bench/) | [Github](https://github.com/HCPLab-SYSU/EXPRESS-Bench) |
+| [**OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models**](https://arxiv.org/pdf/2506.03135) | Arxiv | [Page](https://qizekun.github.io/omnispatial/) | [Github](https://github.com/qizekun/OmniSpatial) |
+
+
+
+
+
+## Planning
+|  Title  |   Venue  |   Website   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**](https://arxiv.org/pdf/2502.09560) | ICML 2025 | [Page](https://embodiedbench.github.io/) | [Github](https://github.com/EmbodiedBench/EmbodiedBench) |
+| [**WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning**](https://arxiv.org/pdf/2506.04363) | Arxiv | [Page](https://worldprediction.github.io/) | [Github](https://github.com/fairinternal/WorldPrediction) |
+
+
+
+
+<!-- # Datasets -->
+
+<!-- 
+## Others
+| Name | Paper | Link | Notes |
+|:-----|:-----:|:----:|:-----:|
+| **IMAD** | [IMAD: IMage-Augmented multi-modal Dialogue](https://arxiv.org/pdf/2305.10512.pdf) | [Link](https://github.com/VityaVitalich/IMAD) | Multimodal dialogue dataset|
+| **Video-ChatGPT** | [Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models](https://arxiv.org/pdf/2306.05424.pdf) | [Link](https://github.com/mbzuai-oryx/Video-ChatGPT#quantitative-evaluation-bar_chart) | A quantitative evaluation framework for video-based dialogue models | -->
