@@ -1,5 +1,8 @@
 # Multimodal-for-Robotics
 
+This repository collects papers, benchmarks, and datasets at the intersection of multimodal learning and robotics.
+
+Continuously updated🔥🔥.
 <!-- <p align="center">
     <img src="./images/MiG_logo.jpg" width="100%" height="100%">
 </p>
