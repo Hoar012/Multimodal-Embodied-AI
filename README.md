@@ -46,7 +46,7 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 --- -->
 
 <font size=5><center><b> Table of Contents </b> </center></font>
-- [Multimodal-for-Robotics](#multimodal-for-robotics)
+- [Multimodal-Embodied-AI](#multimodal-embodied-ai)
 - [Papers](#papers)
   - [Perception](#perception)
   - [Reasoning](#reasoning)
@@ -71,12 +71,8 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 | [**RoboMP2: A Robotic Multimodal Perception-Planning Framework with Multimodal Large Language Models**](https://arxiv.org/pdf/2404.04929) | ICML 2024 | [Page](https://aopolin-lv.github.io/RoboMP2.github.io/) | [Github](https://github.com/aopolin-lv/RoboMP2) |
 | [**OpenEQA: Embodied Question Answering in the Era of Foundation Models**](https://open-eqa.github.io/assets/pdfs/paper.pdf) | CVPR 2024 | [Page](https://open-eqa.github.io/) | [Github](https://github.com/facebookresearch/open-eqa) |
 | [**EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI**](https://arxiv.org/pdf/2312.16170) | CVPR 2024 | [Page](https://tai-wang.github.io/embodiedscan/) | [Github](https://github.com/InternRobotics/EmbodiedScan/tree/main) |
+| [**What’s Left? Concept Grounding with Logic-Enhanced Foundation Models**](https://arxiv.org/pdf/2310.16035.pdf) | NeurIPS 2023 | [Page](https://web.stanford.edu/~joycj/projects/left_neurips_2023.html) | [Github](https://github.com/joyhsu0504/LEFT/tree/main) |
 | [**Multimodal Perception for Goal-oriented Navigation: A Survey**](https://arxiv.org/pdf/2504.15643) | Arxiv | - | - |
-
-
-
-
-
 
 
 ## Reasoning
