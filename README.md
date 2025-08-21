@@ -1,4 +1,4 @@
-# Multimodal-for-Robotics
+# Multimodal-Embodied-AI
 
 This repository collects papers, benchmarks, and datasets at the intersection of multimodal learning and robotics.
 
