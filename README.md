@@ -52,7 +52,8 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
   - [Reasoning](#reasoning)
   - [Planning](#planning)
   - [Control](#control)
-    - [Vision-Language-Action](#vision-language-action)
+    - [Manipulation](#manipulation)
+    - [Navigation](#navigation)
 - [Benchmarks and Datasets](#benchmarks-and-datasets)
   - [Perception](#perception-1)
   - [Reasoning](#reasoning-1)
@@ -63,6 +64,9 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 <!-- Template
 |:--------|:--------:|:--------:|:--------:|
 | [**Title**](Paperlink)  | Conference | [Page]( ) | [Github]( ) | -->
+
+<!-- ## Foundation Models -->
+
 
 ## Perception
 
@@ -91,7 +95,6 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 
 
-
 ## Planning
 
 |  Title  |   Venue  |   Website   |   Code   |
@@ -101,7 +104,19 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 
 ## Control
 
-### Vision-Language-Action
+### Manipulation
+|  Title  |   Venue  |   Website   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [**Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy**](https://robodita.github.io/dita.pdf) | ICCV 2025 | [Page](https://robodita.github.io/) | [Github](https://github.com/RoboDita/Dita) |
+| [**π_0: A Vision-Language-Action Flow Model for General Robot Control**](https://arxiv.org/pdf/2410.24164v3) | RSS 2025 | [Page](https://www.physicalintelligence.company/blog/pi0) | [Github](https://github.com/Physical-Intelligence/openpi) |
+
+
+
+### Navigation
+|  Title  |   Venue  |   Website   |   Code   |
+|:--------|:--------:|:--------:|:--------:|
+| [**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**](https://arxiv.org/pdf/2408.11051) | AAAI 2025 | [Page](https://flame-sjtu.github.io/) | [Github](https://github.com/xyz9911/FLAME) |
+| [**SmartWay: Enhanced Waypoint Prediction and Backtracking for Zero-Shot Vision-and-Language Navigation**](https://arxiv.org/pdf/2503.10069) | IROS 2025 | - | - |
 
 <!-- ### Diffusion Policy -->
 
@@ -131,7 +146,8 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 ## Planning
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-| [**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**](https://arxiv.org/pdf/2502.09560) | ICML 2025 | [Page](https://embodiedbench.github.io/) | [Github](https://github.com/EmbodiedBench/EmbodiedBench) |
+| [**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**](https://arxiv.org/pdf/2502.09560) | ICML 2025 | [Page](https://embodiedbench.github.io/) | [Github](https://github.com/EmbodiedBench/EmbodiedBench) 
+| [**EgoPlan-Bench: Benchmarking Multimodal Large Language Models for Human-Level Planning**](https://arxiv.org/pdf/2312.06722) | Arxiv | [Page](https://chenyi99.github.io/ego_plan/) | [Github](https://github.com/ChenYi99/EgoPlan) |
 | [**WorldPrediction: A Benchmark for High-level World Modeling and Long-horizon Procedural Planning**](https://arxiv.org/pdf/2506.04363) | Arxiv | [Page](https://worldprediction.github.io/) | [Github](https://github.com/fairinternal/WorldPrediction) |
 
 
