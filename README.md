@@ -9,39 +9,22 @@ It is continuously updated 🔥🔥. Contributions and suggestions from the comm
 
 <!-- <p align="center">
     <img src="./images/MiG_logo.jpg" width="100%" height="100%">
-</p>
+</p> -->
 
-## Our MLLM works
+## Our works
+<!-- --- -->
 
-🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
-**[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)** | :black_nib: **[Citation](./images/bib_survey.txt)** | **[💬 WeChat (MLLM微信交流群，欢迎加入)](./images/wechat-group.png)**
-
-The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sparkles:  
-
----
-
-🔥🔥🔥 **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
+🔥🔥🔥 **Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action Models**  
 <p align="center">
-    <img src="./images/vita-1.5.jpg" width="60%" height="60%">
+    <img src="./assets/HSR.png" width="60%" height="60%">
 </p>
+<font size=7><div align='center' > [[📖 Paper](https://arxiv.org/pdf/2608.24042)] [[🌟 Website](https://hoar012.github.io/HSR-Project/)] </div></font> 
 
-<font size=7><div align='center' > [[📽 VITA-1.5 Demo Show! Here We Go! 🔥](https://youtu.be/tyi6SVFT5mM?si=fkMQCrwa5fVnmEe7)] </div></font>  
-
-<font size=7><div align='center' > [[📖 VITA-1.5 Paper](https://arxiv.org/pdf/2501.01957)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤖 Basic Demo](https://modelscope.cn/studios/modelscope/VITA1.5_demo)] [[🍎 VITA-1.0](https://vita-home.github.io/)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat-group.jpg)]</div></font>  
-
-<font size=7><div align='center' > We are excited to introduce the **VITA-1.5**, a more powerful and more real-time version. ✨ </div></font>
-
-<font size=7><div align='center' >**All codes of VITA-1.5 have been released**! :star2: </div></font>  
-
-You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VITA1.5_demo) on ModelScope directly. The Real-Time Interactive Demo needs to be configured according to the [instructions](https://github.com/VITA-MLLM/VITA?tab=readme-ov-file#-real-time-interactive-demo).
-
-
----
--->
-
+<!-- --- -->
 
 ## 📋 Table of Contents    
 - [⚙️ Multimodal-Embodied-AI](#️-multimodal-embodied-ai)
+  - [Our works](#our-works)
   - [📋 Table of Contents](#-table-of-contents)
   - [📄 Papers](#-papers)
     - [Perception](#perception)
