@@ -23,6 +23,8 @@ It is continuously updated 🔥🔥. Contributions and suggestions from the comm
   [<a href="https://hoar012.github.io/HSR-Project/">🌟 Website</a>]
 </div>
 
+---
+
 
 🔥🔥🔥 **Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning**  
 <p align="center">
@@ -33,6 +35,8 @@ It is continuously updated 🔥🔥. Contributions and suggestions from the comm
   [<a href="https://internvl.github.io/blog/2025-10-11-Vlaser/">🌟 Website</a>]
   [<a href="https://github.com/OpenGVLab/Vlaser">💾 Code</a>]
 </div>
+
+---
 
 🔥🔥🔥 **Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy**  
 <p align="center">
