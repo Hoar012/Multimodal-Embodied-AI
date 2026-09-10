@@ -18,7 +18,10 @@ It is continuously updated 🔥🔥. Contributions and suggestions from the comm
 <p align="center">
     <img src="./assets/HSR.png" width="60%" height="60%">
 </p>
-<font size=7><div align='center' > [[📖 Paper](https://arxiv.org/pdf/2608.24042)] [[🌟 Website](https://hoar012.github.io/HSR-Project/)] </div></font> 
+<div align="center" style="font-size: 32px;">
+  [<a href="https://arxiv.org/pdf/2608.24042">📖 Paper</a>] 
+  [<a href="https://hoar012.github.io/HSR-Project/">🌟 Website</a>]
+</div>
 
 <!-- --- -->
 
