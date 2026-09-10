@@ -23,6 +23,27 @@ It is continuously updated 🔥🔥. Contributions and suggestions from the comm
   [<a href="https://hoar012.github.io/HSR-Project/">🌟 Website</a>]
 </div>
 
+
+🔥🔥🔥 **Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning**  
+<p align="center">
+    <img src="./assets/vlaser.png" width="60%" height="60%">
+</p>
+<div align="center" style="font-size: 32px;">
+  [<a href="https://arxiv.org/pdf/2510.11027">📖 Paper</a>] 
+  [<a href="https://internvl.github.io/blog/2025-10-11-Vlaser/">🌟 Website</a>]
+  [<a href="https://github.com/OpenGVLab/Vlaser">💾 Code</a>]
+</div>
+
+🔥🔥🔥 **Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy**  
+<p align="center">
+    <img src="./assets/OC-VLA.png" width="60%" height="60%">
+</p>
+<div align="center" style="font-size: 32px;">
+  [<a href="https://arxiv.org/pdf/2508.13103">📖 Paper</a>] 
+  [<a href="https://robodita.github.io/">🌟 Website</a>]
+  [<a href="https://github.com/RoboDita/Dita">💾 Code</a>]
+</div>
+
 <!-- --- -->
 
 ## 📋 Table of Contents    
