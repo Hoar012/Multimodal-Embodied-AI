@@ -69,9 +69,9 @@ You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VIT
 ### Perception
 |  Title  |   Venue  |   Website   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| [**RaySt3R: Predicting Novel Depth Maps for Zero-Shot Object Completion**](https://arxiv.org/pdf/2506.05285?) | NeurIPS 2025 | [Page](https://rayst3r.github.io/) | [Github](https://github.com/Duisterhof/rayst3r) |
 | [**SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**](https://arxiv.org/pdf/2505.12448?) | NeurIPS 2025 | [Page](https://yliu-cs.github.io/SSR/) | [Github](https://github.com/yliu-cs/SSR) |
 | [**From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D**](https://arxiv.org/pdf/2503.22976) | NeurIPS 2025 | [Page](https://logosroboticsgroup.github.io/SPAR/) | [Github](https://github.com/LogosRoboticsGroup/SPAR) |
-| [**RaySt3R: Predicting Novel Depth Maps for Zero-Shot Object Completion**](https://arxiv.org/pdf/2506.05285?) | NeurIPS 2025 | [Page](https://rayst3r.github.io/) | [Github](https://github.com/Duisterhof/rayst3r) |
 | [**AimBot: A Simple Auxiliary Visual Cue to Enhance Spatial Awareness of Visuomotor Policies**](https://arxiv.org/pdf/2508.08113) | NeurIPS 2025 | [Page](https://aimbot-reticle.github.io/) | [Github](https://github.com/aimbot-reticle/openpi0-aimbot) |
 | [**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**](https://arxiv.org/pdf/2408.11811) | ICLR 2025 | [Page](https://xuxw98.github.io/ESAM/) | [Github](https://github.com/xuxw98/ESAM) |
 | [**GrabS: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision**](https://arxiv.org/pdf/2504.11754) | ICLR 2025 | - | [Github](https://github.com/vLAR-group/GrabS) |
