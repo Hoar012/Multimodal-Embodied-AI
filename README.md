@@ -26,7 +26,7 @@ It is continuously updated 🔥🔥. Contributions and suggestions from the comm
 
 🔥🔥🔥 **Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning**  
 <p align="center">
-    <img src="./assets/vlaser.png" width="60%" height="60%">
+    <img src="./assets/vlaser.png" width="75%" height="75%">
 </p>
 <div align="center" style="font-size: 32px;">
   [<a href="https://arxiv.org/pdf/2510.11027">📖 Paper</a>] 
@@ -36,7 +36,7 @@ It is continuously updated 🔥🔥. Contributions and suggestions from the comm
 
 🔥🔥🔥 **Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy**  
 <p align="center">
-    <img src="./assets/OC-VLA.png" width="60%" height="60%">
+    <img src="./assets/OC-VLA.png" width="90%" height="90%">
 </p>
 <div align="center" style="font-size: 32px;">
   [<a href="https://arxiv.org/pdf/2508.13103">📖 Paper</a>] 
