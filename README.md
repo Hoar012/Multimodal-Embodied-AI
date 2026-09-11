@@ -26,9 +26,9 @@ It is continuously updated 🔥🔥. Contributions and suggestions from the comm
 ---
 
 
-🔥🔥🔥 **Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning**  
+**Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning**  
 <p align="center">
-    <img src="./assets/vlaser.png" width="75%" height="75%">
+    <img src="./assets/vlaser.png" width="80%" height="80%">
 </p>
 <div align="center" style="font-size: 32px;">
   [<a href="https://arxiv.org/pdf/2510.11027">📖 Paper</a>] 
@@ -38,9 +38,9 @@ It is continuously updated 🔥🔥. Contributions and suggestions from the comm
 
 ---
 
-🔥🔥🔥 **Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy**  
+**Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy**  
 <p align="center">
-    <img src="./assets/OC-VLA.png" width="90%" height="90%">
+    <img src="./assets/OC-VLA.png" width="100%" height="100%">
 </p>
 <div align="center" style="font-size: 32px;">
   [<a href="https://arxiv.org/pdf/2508.13103">📖 Paper</a>] 
@@ -68,6 +68,7 @@ It is continuously updated 🔥🔥. Contributions and suggestions from the comm
     - [Control](#control-1)
       - [Manipulation](#manipulation-1)
       - [Navigation](#navigation-1)
+  - [Citation](#citation)
 
 ## 📄 Papers
 
@@ -430,3 +431,18 @@ It is continuously updated 🔥🔥. Contributions and suggestions from the comm
 Continuously updated 🔥
 Community contributions are welcome!
  -->
+
+
+## Citation
+
+If this list is useful in your research, please consider citing:
+
+```bibtex
+@misc{awesome-multimodal-embodied-ai,
+  title     = {Awesome Multimodal Embodied AI},
+  author    = {Haoran Hao},
+  year      = {2026},
+  url       = {https://github.com/Hoar012/Awesome-Multimodal-Embodied-AI},
+  note      = {GitHub repository}
+}
+```
